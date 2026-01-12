@@ -2,7 +2,7 @@
 
 A modern, minimalist real-time chat application built with the MERN stack, featuring Socket.io for real-time messaging and Groq API integration for AI-powered conversations.
 
-![AetherChat Preview](https://via.placeholder.com/800x400/6366f1/ffffff?text=AetherChat+Preview)
+![AetherChat Preview](https://github.com/DishankM/AetherChat/blob/main/Screenshot%202026-01-12%20205053.png?raw=true)
 
 ## Features
 
